@@ -131,6 +131,10 @@ drown-detector/
 
 ---
 
+---
+Link para o vídeo de apresentação da ideia:
+https://youtu.be/NxX75Gg18V0
+
 ## 📃 Licença
 
 Este projeto é apenas para fins acadêmicos e experimentais.
