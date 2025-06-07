@@ -1,3 +1,8 @@
+# Grupo:
+- Bernardo Pinto Rocha | RM: 99209
+- Gabriel Diegues Figueiredo Rocha | RM: 550788
+- Levy Nascimento Junior | RM: 98655
+
 # 🌊 Drown Detector
 
 **Drown Detector** é um sistema de visão computacional que utiliza `MediaPipe` e `OpenCV` para detectar **comportamentos de risco em situações de possível afogamento** através da análise de poses corporais em vídeos. A aplicação identifica sinais como posturas submersas, posições corporais suspeitas e pedidos de ajuda com os braços erguidos.
